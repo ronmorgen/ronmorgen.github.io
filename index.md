@@ -1,1 +1,1 @@
-![Red_Sunglasses](./assets/img/blog_logo_1.png)
+![logo](./assets/img/blog_logo_1.png)
