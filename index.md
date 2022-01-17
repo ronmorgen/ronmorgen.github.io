@@ -1,1 +1,1 @@
-![RedSunglasses]('./redsunglasses.jpg')
+![Red_Sunglasses](./assets/img/RedSunglasses.svg)
